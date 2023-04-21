@@ -1,5 +1,5 @@
 object AppConfiguration {
-    const val appId = "dev.aaa1115910.bv"
+    const val appId = "dev.qiuhong.bvplus"
     const val compileSdk = 33
     const val minSdk = 21
     const val targetSdk = 33

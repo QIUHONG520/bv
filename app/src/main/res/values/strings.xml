@@ -5,7 +5,7 @@
     <string name="anime_home_button_timeline">时间表</string>
     <string name="anime_home_button_unknown">待定</string>
 
-    <string name="app_name">BV</string>
+    <string name="app_name">BV Plus</string>
 
     <string name="common_confirm">确定</string>
 
@@ -34,7 +34,7 @@
     <string name="following_season_type_bangumi">番剧</string>
     <string name="following_season_type_film_and_television">影视</string>
 
-    <string name="home_press_back_again_to_exit">再次按下返回键退出 Bug Video</string>
+    <string name="home_press_back_again_to_exit">再次按下返回键退出 Bug Video Plus</string>
 
     <string name="load_data_count">已加载 %1$d 条数据</string>
     <string name="load_data_count_no_more">已加载全部共 %1$d 条数据</string>
@@ -180,6 +180,7 @@
     <string name="top_nav_item_dynamics">动态</string>
     <string name="top_nav_item_partition">分区</string>
     <string name="top_nav_item_popular">热门</string>
+    <string name="top_nav_item_rcmd">推荐</string>
     <string name="top_nav_item_search">搜索</string>
 
     <string name="user_homepage_anime">我追的番</string>

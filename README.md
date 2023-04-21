@@ -2,9 +2,9 @@
 
 <img src="app/src/main/res/drawable/ic_banner.webp" style="border-radius: 24px; margin-top: 32px;"/>
 
-# BV
+# BV-Plus
 
-~~Bug Video~~
+~~Bug Video Plus~~
 
 [![App Center Release](https://img.shields.io/endpoint?url=https%3A%2F%2Funtitled-ecso9wcazr6c.runkit.sh)](https://install.appcenter.ms/users/aaa1115910-gmail.com/apps/bv/distribution_groups/public)
 [![Android Sdk Require](https://img.shields.io/badge/android-5.0%2B-informational)](https://developer.android.com/jetpack/compose/interop/adding#:~:text=minimum%20API%20level%20to%2021%20or%20higher%2C)
@@ -13,12 +13,12 @@
 [![Release workflow](https://github.com/aaa1115910/bv/actions/workflows/release.yml/badge.svg)](https://github.com/aaa1115910/bv/actions/workflows/release.yml)
 [![Release workflow](https://github.com/aaa1115910/bv/actions/workflows/alpha.yml/badge.svg)](https://github.com/aaa1115910/bv/actions/workflows/alpha.yml)
 
-**BV 不支持在中国大陆地区内使用，如有相关使用需求请使用 [云视听小电视](https://app.bilibili.com)**
+**BV-Plus 为个人二次修改打包，如需原本请移步： [BV原版](https://github.com/aaa1115910/bv)**
 
 </div>
 
 ---
-BV ~~(Bug Video)~~ 是一款 [哔哩哔哩](https://www.bilibili.com) 的第三方 `Android TV`
+BV-Plus ~~(Bug Video Plus)~~ 是一款 [哔哩哔哩](https://www.bilibili.com) 的第三方 `Android TV`
 应用，使用 `Jetpack Compose` 开发，支持 `Android 5.0+`
 
 都是随心乱写的代码，能跑就行。

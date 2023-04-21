@@ -3,7 +3,7 @@ plugins {
     alias(gradleLibs.plugins.kotlin.serialization)
 }
 
-group = "dev.aaa1115910"
+group = "dev.qiuhong"
 
 dependencies {
     implementation(libs.jsoup)
